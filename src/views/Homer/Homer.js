@@ -37,7 +37,7 @@ function Homer(props) {
         {...rest}
       />
       <Socialbar />
-      <Parallax filter image={require("assets/img/bg4.jpg")}>
+      <Parallax filter image={require("assets/img/bg8.jpg")}>
         <div className={classes.container}>
           <GridContainer style={{ justifyContent: "flex-start" }}>
             <GridItem xs={12} sm={12} md={6}>

@@ -30,7 +30,7 @@ export default function Products(props) {
   const { ...rest } = props;
   return (
     <div id="Products" >
-      <Parallax filter image={require("assets/img/products.jpg")}>
+      <Parallax filter image={require("assets/img/bg9.jpg")}>
         <div className={classes.container}>
           <GridContainer style={{ justifyContent: "flex-start" }}>
             <GridItem xs={12} sm={12} md={6}>

@@ -81,16 +81,10 @@ export default function Productinfo() {
         </Tabs>
       </AppBar>
       <TabPanel value={value} index={0}>
-        Item One kjdnfjsbjsdbhfbsdhcdshcs dcdsndd
-        Item One kjdnfjsbjsdbhfbsdhcdshcs dcdsndd
-        Item One kjdnfjsbjsdbhfbsdhcdshcs dcdsndd
-        Item One kjdnfjsbjsdbhfbsdhcdshcs dcdsndd
-        Item One kjdnfjsbjsdbhfbsdhcdshcs dcdsndd
-        Item One kjdnfjsbjsdbhfbsdhcdshcs dcdsndd
+        Item One
       </TabPanel>
       <TabPanel value={value} index={1}>
         Item Two
-        Item One kjdnfjsbjsdbhfbsdhcdshcs dcdsnddItem One kjdnfjsbjsdbhfbsdhcdshcs dcdsnddItem One kjdnfjsbjsdbhfbsdhcdshcs dcdsnddItem One kjdnfjsbjsdbhfbsdhcdshcs dcdsndd
       </TabPanel>
       <TabPanel value={value} index={2}>
         Item Three
